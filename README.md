@@ -1,3 +1,21 @@
+React
+-----------------------------------------------------------------------
+step 1:  npm install
+step 2: run the project
+
+WEB-API's (.NET)
+------------------------------------------------------------------------
+Database Name (SQL SERVER) : BloggerDB
+
+connectionstring : "ApplicationDbConnectionStringBlogger"
+
+Database Type : Code-First Approch
+Database tables: 
+  -users
+  -blogs
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
